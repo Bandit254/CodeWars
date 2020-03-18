@@ -18,12 +18,82 @@ Note: for this kata y isn't considered a vowel.
         static void Main(string[] args)
         {
             Console.WriteLine("Remove the vowels from a given string.\n");
+            string str = "This website is for losers LOL!";
+            Console.WriteLine($"{Disemvowell(str)}");
         }
-
+        //My Solution:
         public static string Disemvowell(string str)
         {
-
-            return str;
+            string returnString = "";
+            for (int i = 0; i < str.Length; i++)
+            {
+                switch (str[i])
+                {
+                    case 'a':
+                        returnString += "";
+                        break;
+                    case 'e':
+                        returnString += "";
+                        break;
+                    case 'i':
+                        returnString += "";
+                        break;
+                    case 'o':
+                        returnString += "";
+                        break;
+                    case 'u':
+                        returnString += "";
+                        break;
+                    case 'A':
+                        returnString += "";
+                        break;
+                    case 'E':
+                        returnString += "";
+                        break;
+                    case 'I':
+                        returnString += "";
+                        break;
+                    case 'O':
+                        returnString += "";
+                        break;
+                    case 'U':
+                        returnString += "";
+                        break;
+                    default:
+                        returnString += str[i];
+                        break;
+                }
+            }
+            return returnString;
         }
+
+        /*Other Solutions from CodeWarriors:
+         
+        public static string Disemvowel(string str)
+        {
+            return Regex.Replace(str, "[aeiou]", "", RegexOptions.IgnoreCase);
+        }
+
+        public static string Disemvowel(string str)
+         {
+            return string.Concat(str.Where(ch => !"aeiouAEIOU".Contains(ch)));
+         }
+
+        public static string Disemvowel(string str)
+         {
+             string strNew = "";
+
+            string[] strings = str.Split('a', 'u', 'e', 'i', 'o', 'A', 'U', 'E', 'I', 'O');
+
+            foreach (var item in strings)
+            {
+                strNew += item;
+            }
+            
+            return strNew;
+            }
+
+
+        */
     }
 }
