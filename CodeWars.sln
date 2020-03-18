@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars", "CodeWars.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disemvowell_Trolls", "Disemvowell_Trolls\Disemvowell_Trolls.csproj", "{DE614D15-A3FB-4342-AA6F-4F1F030B359D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isograms", "Isograms\Isograms.csproj", "{36C9FE33-09ED-408D-A801-F1B73FF8C3DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE614D15-A3FB-4342-AA6F-4F1F030B359D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE614D15-A3FB-4342-AA6F-4F1F030B359D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE614D15-A3FB-4342-AA6F-4F1F030B359D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C9FE33-09ED-408D-A801-F1B73FF8C3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C9FE33-09ED-408D-A801-F1B73FF8C3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C9FE33-09ED-408D-A801-F1B73FF8C3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C9FE33-09ED-408D-A801-F1B73FF8C3DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
