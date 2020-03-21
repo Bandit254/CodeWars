@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DifferenceBetweenAges", "Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoOldestAges", "TwoOldestAges\TwoOldestAges.csproj", "{1131F32B-90E0-42BD-92B5-996FBD44410A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovingElements", "RemovingElements\RemovingElements.csproj", "{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
