@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isograms", "Isograms\Isogra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalRoot", "DigitalRoot\DigitalRoot.csproj", "{FEA655E2-893B-4F77-9841-BCCB484343E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceBetweenAges", "DifferenceBetweenAges\DifferenceBetweenAges.csproj", "{7B363067-BAB4-404B-9D56-3956FDEA211C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DifferenceBetweenAges", "DifferenceBetweenAges\DifferenceBetweenAges.csproj", "{7B363067-BAB4-404B-9D56-3956FDEA211C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoOldestAges", "TwoOldestAges\TwoOldestAges.csproj", "{1131F32B-90E0-42BD-92B5-996FBD44410A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7B363067-BAB4-404B-9D56-3956FDEA211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B363067-BAB4-404B-9D56-3956FDEA211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B363067-BAB4-404B-9D56-3956FDEA211C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1131F32B-90E0-42BD-92B5-996FBD44410A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
