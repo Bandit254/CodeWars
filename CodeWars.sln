@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoOldestAges", "TwoOldestA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemovingElements", "RemovingElements\RemovingElements.csproj", "{9AEA6A1B-0BF5-4F28-B8DB-E1E5A3DD917F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOccurences", "CountOccurences\CountOccurences.csproj", "{568BE826-263E-41C1-AE4E-9E61BEA20320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountOccurences", "CountOccurences\CountOccurences.csproj", "{568BE826-263E-41C1-AE4E-9E61BEA20320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillYouMakeIt", "WillYouMakeIt\WillYouMakeIt.csproj", "{43A929DF-53F7-4FC2-A774-FD98BDA83996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WillYouMakeIt", "WillYouMakeIt\WillYouMakeIt.csproj", "{43A929DF-53F7-4FC2-A774-FD98BDA83996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNonConsecutiveNumbers", "RemoveNonConsecutiveNumbers\RemoveNonConsecutiveNumbers.csproj", "{B9F9735E-3643-4E69-802E-012E05B6FB3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{43A929DF-53F7-4FC2-A774-FD98BDA83996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43A929DF-53F7-4FC2-A774-FD98BDA83996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43A929DF-53F7-4FC2-A774-FD98BDA83996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F9735E-3643-4E69-802E-012E05B6FB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F9735E-3643-4E69-802E-012E05B6FB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F9735E-3643-4E69-802E-012E05B6FB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F9735E-3643-4E69-802E-012E05B6FB3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
