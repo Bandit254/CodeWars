@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeUnderPressureOne", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDifference", "IntegerDifference\IntegerDifference.csproj", "{76104A03-B8BF-4449-9CB4-658A94A1BEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
