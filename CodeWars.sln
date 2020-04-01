@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckTheseLetters", "CheckT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToString", "NumberToString\NumberToString.csproj", "{5BDF3C57-7440-4D91-A806-FF5BA67F423B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleTrouble", "TripleTrouble\TripleTrouble.csproj", "{99D67FD6-AF00-4CE0-B9B0-4AF0B3D8F7C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TripleTrouble", "TripleTrouble\TripleTrouble.csproj", "{99D67FD6-AF00-4CE0-B9B0-4AF0B3D8F7C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeUnderPressureOne", "CodeUnderPressureOne\CodeUnderPressureOne.csproj", "{3FEFB4C4-DB84-4D14-BCEE-E8237ECF6CAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeUnderPressureOne", "CodeUnderPressureOne\CodeUnderPressureOne.csproj", "{3FEFB4C4-DB84-4D14-BCEE-E8237ECF6CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDifference", "IntegerDifference\IntegerDifference.csproj", "{76104A03-B8BF-4449-9CB4-658A94A1BEDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{3FEFB4C4-DB84-4D14-BCEE-E8237ECF6CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FEFB4C4-DB84-4D14-BCEE-E8237ECF6CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FEFB4C4-DB84-4D14-BCEE-E8237ECF6CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76104A03-B8BF-4449-9CB4-658A94A1BEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
