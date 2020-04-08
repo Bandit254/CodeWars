@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerDifference", "Intege
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{D3BE51A2-5CA1-4AB1-A80C-5A92AD7228D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountArrayOccurrences", "CountArrayOccurrences\CountArrayOccurrences.csproj", "{E813DBBA-79C6-45D7-B6C7-FE7A950EF6C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountArrayOccurrences", "CountArrayOccurrences\CountArrayOccurrences.csproj", "{E813DBBA-79C6-45D7-B6C7-FE7A950EF6C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardDriveCapacity", "HardDriveCapacity\HardDriveCapacity.csproj", "{7B41B0C4-AFC7-4D16-8809-00FBF0696333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{E813DBBA-79C6-45D7-B6C7-FE7A950EF6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E813DBBA-79C6-45D7-B6C7-FE7A950EF6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E813DBBA-79C6-45D7-B6C7-FE7A950EF6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B41B0C4-AFC7-4D16-8809-00FBF0696333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B41B0C4-AFC7-4D16-8809-00FBF0696333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B41B0C4-AFC7-4D16-8809-00FBF0696333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B41B0C4-AFC7-4D16-8809-00FBF0696333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
