@@ -41,9 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardDriveCapacity", "HardDr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInOrder", "NumbersInOrder\NumbersInOrder.csproj", "{D4426893-694B-489B-9AD2-8E1AB94BB1B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPlanetName", "GetPlanetName\GetPlanetName.csproj", "{41A07E34-F434-43B8-B794-07BD0F8B9DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetPlanetName", "GetPlanetName\GetPlanetName.csproj", "{41A07E34-F434-43B8-B794-07BD0F8B9DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLettersInString", "CountLettersInString\CountLettersInString.csproj", "{7006362B-64A5-4E1D-9BEF-BDEF79417498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountLettersInString", "CountLettersInString\CountLettersInString.csproj", "{7006362B-64A5-4E1D-9BEF-BDEF79417498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberZooPatrol", "NumberZooPatrol\NumberZooPatrol.csproj", "{54F6C0FE-3594-4BCC-8BD5-2473EFF9D7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyBirthdayBaseConversion", "HappyBirthdayBaseConversion\HappyBirthdayBaseConversion.csproj", "{020C7966-740B-469B-AB86-3DFFC581C2A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{7006362B-64A5-4E1D-9BEF-BDEF79417498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7006362B-64A5-4E1D-9BEF-BDEF79417498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7006362B-64A5-4E1D-9BEF-BDEF79417498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F6C0FE-3594-4BCC-8BD5-2473EFF9D7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F6C0FE-3594-4BCC-8BD5-2473EFF9D7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F6C0FE-3594-4BCC-8BD5-2473EFF9D7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F6C0FE-3594-4BCC-8BD5-2473EFF9D7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020C7966-740B-469B-AB86-3DFFC581C2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020C7966-740B-469B-AB86-3DFFC581C2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020C7966-740B-469B-AB86-3DFFC581C2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020C7966-740B-469B-AB86-3DFFC581C2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
