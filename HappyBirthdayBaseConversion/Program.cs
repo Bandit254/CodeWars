@@ -17,7 +17,9 @@ namespace HappyBirthdayBaseConversion
         static void Main(string[] args)
         {
             Console.WriteLine("Convert a given decimal number to either 20 or 21 in a different number-base.\n ");
-            Console.WriteLine($"{AgeConversion(32)}");
+            Console.WriteLine($"{AgeConversion(84)}");
+            Console.WriteLine($"{AgeConversion(83)}");
+            
 
         }
 
@@ -39,7 +41,7 @@ namespace HappyBirthdayBaseConversion
                 {
                     reversedDigits += digits[i];
                 }
-                if (String.Equals(reversedDigits,"20") || String.Equals(reversedDigits,"21"))
+                if (String.Equals(reversedDigits,"28") || String.Equals(reversedDigits,"29") || String.Equals(reversedDigits, "30"))
                 {
                     convertedAge = reversedDigits;
                     break;
