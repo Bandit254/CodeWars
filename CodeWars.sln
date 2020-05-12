@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildATower", "BuildATower\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaughtyOrNice", "NaughtyOrNice\NaughtyOrNice.csproj", "{E7E6D0DC-CBA8-49DF-8137-64658FC223BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptThis", "EncryptThis\EncryptThis.csproj", "{0FEE049E-9A7A-4BB4-939A-AE5FBB411343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{E7E6D0DC-CBA8-49DF-8137-64658FC223BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E6D0DC-CBA8-49DF-8137-64658FC223BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E6D0DC-CBA8-49DF-8137-64658FC223BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FEE049E-9A7A-4BB4-939A-AE5FBB411343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEE049E-9A7A-4BB4-939A-AE5FBB411343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEE049E-9A7A-4BB4-939A-AE5FBB411343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEE049E-9A7A-4BB4-939A-AE5FBB411343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
