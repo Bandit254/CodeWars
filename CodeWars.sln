@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbbreviateNames", "Abbrevia
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheDivisors", "FindTheDivisors\FindTheDivisors.csproj", "{5553DBC8-52D1-4A52-AFDD-50D04500ED40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{AD673D04-41C2-4BA0-A44F-DAC75BAD4B7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{AD673D04-41C2-4BA0-A44F-DAC75BAD4B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedCountOfCharacters", "OrderedCountOfCharacters\OrderedCountOfCharacters.csproj", "{DDC510E0-6A20-4EBB-8C29-68BE651A17D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{AD673D04-41C2-4BA0-A44F-DAC75BAD4B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD673D04-41C2-4BA0-A44F-DAC75BAD4B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD673D04-41C2-4BA0-A44F-DAC75BAD4B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC510E0-6A20-4EBB-8C29-68BE651A17D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC510E0-6A20-4EBB-8C29-68BE651A17D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC510E0-6A20-4EBB-8C29-68BE651A17D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC510E0-6A20-4EBB-8C29-68BE651A17D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
