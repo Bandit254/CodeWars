@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchForLetters", "SearchF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteSeries", "CompleteSeries\CompleteSeries.csproj", "{21284268-B6B6-49EA-A19C-CDD1BD259E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalStrings", "DiagonalStrings\DiagonalStrings.csproj", "{799901FC-CE83-4477-8C26-EEAEFD803362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{21284268-B6B6-49EA-A19C-CDD1BD259E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21284268-B6B6-49EA-A19C-CDD1BD259E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21284268-B6B6-49EA-A19C-CDD1BD259E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799901FC-CE83-4477-8C26-EEAEFD803362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799901FC-CE83-4477-8C26-EEAEFD803362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799901FC-CE83-4477-8C26-EEAEFD803362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799901FC-CE83-4477-8C26-EEAEFD803362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
