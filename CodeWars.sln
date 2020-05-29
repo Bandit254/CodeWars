@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalStrings", "Diagonal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetMe", "GreetMe\GreetMe.csproj", "{017425C1-AEDB-48BF-BF72-DB70355415B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentWeekdays", "MostFrequentWeekdays\MostFrequentWeekdays.csproj", "{A7521149-D75C-4A2B-87F9-62578BE77C39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{017425C1-AEDB-48BF-BF72-DB70355415B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017425C1-AEDB-48BF-BF72-DB70355415B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017425C1-AEDB-48BF-BF72-DB70355415B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
