@@ -71,9 +71,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompleteSeries", "CompleteS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalStrings", "DiagonalStrings\DiagonalStrings.csproj", "{799901FC-CE83-4477-8C26-EEAEFD803362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetMe", "GreetMe\GreetMe.csproj", "{017425C1-AEDB-48BF-BF72-DB70355415B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetMe", "GreetMe\GreetMe.csproj", "{017425C1-AEDB-48BF-BF72-DB70355415B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentWeekdays", "MostFrequentWeekdays\MostFrequentWeekdays.csproj", "{A7521149-D75C-4A2B-87F9-62578BE77C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MostFrequentWeekdays", "MostFrequentWeekdays\MostFrequentWeekdays.csproj", "{A7521149-D75C-4A2B-87F9-62578BE77C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueForJustOne", "TrueForJustOne\TrueForJustOne.csproj", "{2CF59AFB-73DF-4681-934C-F96FF577CBE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7521149-D75C-4A2B-87F9-62578BE77C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF59AFB-73DF-4681-934C-F96FF577CBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF59AFB-73DF-4681-934C-F96FF577CBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF59AFB-73DF-4681-934C-F96FF577CBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF59AFB-73DF-4681-934C-F96FF577CBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
