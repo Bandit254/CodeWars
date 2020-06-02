@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueForJustOne", "TrueForJu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleCase", "TitleCase\TitleCase.csproj", "{0FAB9F67-3C21-4493-8999-0788788C5159}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeLanguages", "WelcomeLanguages\WelcomeLanguages.csproj", "{0ABC6D19-22AF-4865-A7CB-867C21351BAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{0FAB9F67-3C21-4493-8999-0788788C5159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FAB9F67-3C21-4493-8999-0788788C5159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FAB9F67-3C21-4493-8999-0788788C5159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABC6D19-22AF-4865-A7CB-867C21351BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABC6D19-22AF-4865-A7CB-867C21351BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABC6D19-22AF-4865-A7CB-867C21351BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABC6D19-22AF-4865-A7CB-867C21351BAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
