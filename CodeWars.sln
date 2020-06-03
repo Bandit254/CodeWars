@@ -81,7 +81,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitleCase", "TitleCase\Titl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeLanguages", "WelcomeLanguages\WelcomeLanguages.csproj", "{0ABC6D19-22AF-4865-A7CB-867C21351BAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtractTheSum", "SubtractTheSum\SubtractTheSum.csproj", "{D1DC2D51-E12A-40A8-83D7-3ACBFFBB4A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractTheSum", "SubtractTheSum\SubtractTheSum.csproj", "{D1DC2D51-E12A-40A8-83D7-3ACBFFBB4A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NarcissisticNumbers", "NarcissisticNumbers\NarcissisticNumbers.csproj", "{C08A9985-7336-4434-8783-4A873E4CCA62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{D1DC2D51-E12A-40A8-83D7-3ACBFFBB4A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DC2D51-E12A-40A8-83D7-3ACBFFBB4A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DC2D51-E12A-40A8-83D7-3ACBFFBB4A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08A9985-7336-4434-8783-4A873E4CCA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08A9985-7336-4434-8783-4A873E4CCA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08A9985-7336-4434-8783-4A873E4CCA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08A9985-7336-4434-8783-4A873E4CCA62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
