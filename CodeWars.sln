@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharacters", "CountCha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurekaNumbers", "EurekaNumbers\EurekaNumbers.csproj", "{984BC73A-BFDF-4B75-A75E-D77646EB4518}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindUniqueNumber", "FindUniqueNumber\FindUniqueNumber.csproj", "{77032099-9FB4-41C5-B55D-954DC2A85F9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{984BC73A-BFDF-4B75-A75E-D77646EB4518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{984BC73A-BFDF-4B75-A75E-D77646EB4518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{984BC73A-BFDF-4B75-A75E-D77646EB4518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
