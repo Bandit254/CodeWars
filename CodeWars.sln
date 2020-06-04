@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtractTheSum", "SubtractT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NarcissisticNumbers", "NarcissisticNumbers\NarcissisticNumbers.csproj", "{C08A9985-7336-4434-8783-4A873E4CCA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharacters", "CountCharacters\CountCharacters.csproj", "{1F346C27-765B-4C59-B843-562349F30AEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F346C27-765B-4C59-B843-562349F30AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F346C27-765B-4C59-B843-562349F30AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F346C27-765B-4C59-B843-562349F30AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F346C27-765B-4C59-B843-562349F30AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
