@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoolPaperwork", "ShoolPape
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostWithoutAMap", "LostWithoutAMap\LostWithoutAMap.csproj", "{C45DFE39-7B8F-444C-9C51-76A974DE93FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF_Function", "IF_Function\IF_Function.csproj", "{478D65F1-9C23-4980-B882-FC7FCC9E991A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478D65F1-9C23-4980-B882-FC7FCC9E991A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478D65F1-9C23-4980-B882-FC7FCC9E991A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478D65F1-9C23-4980-B882-FC7FCC9E991A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478D65F1-9C23-4980-B882-FC7FCC9E991A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
