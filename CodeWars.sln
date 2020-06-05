@@ -87,11 +87,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NarcissisticNumbers", "Narc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{9667A4E8-2596-443C-ABC4-CDC6B9D513A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharacters", "CountCharacters\CountCharacters.csproj", "{1F346C27-765B-4C59-B843-562349F30AEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCharacters", "CountCharacters\CountCharacters.csproj", "{1F346C27-765B-4C59-B843-562349F30AEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurekaNumbers", "EurekaNumbers\EurekaNumbers.csproj", "{984BC73A-BFDF-4B75-A75E-D77646EB4518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EurekaNumbers", "EurekaNumbers\EurekaNumbers.csproj", "{984BC73A-BFDF-4B75-A75E-D77646EB4518}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindUniqueNumber", "FindUniqueNumber\FindUniqueNumber.csproj", "{77032099-9FB4-41C5-B55D-954DC2A85F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindUniqueNumber", "FindUniqueNumber\FindUniqueNumber.csproj", "{77032099-9FB4-41C5-B55D-954DC2A85F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoolPaperwork", "ShoolPaperwork\ShoolPaperwork.csproj", "{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77032099-9FB4-41C5-B55D-954DC2A85F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
