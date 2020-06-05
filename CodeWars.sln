@@ -95,6 +95,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindUniqueNumber", "FindUni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoolPaperwork", "ShoolPaperwork\ShoolPaperwork.csproj", "{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostWithoutAMap", "LostWithoutAMap\LostWithoutAMap.csproj", "{C45DFE39-7B8F-444C-9C51-76A974DE93FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7272E7A-60AD-4044-BCC9-E84B25FEEA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45DFE39-7B8F-444C-9C51-76A974DE93FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
