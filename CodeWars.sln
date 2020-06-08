@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStringSpaces", "Remov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicates", "CountingDuplicates\CountingDuplicates.csproj", "{5004D29B-1B62-4150-ABAA-AF1D021116D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheMonekys", "CountTheMonekys\CountTheMonekys.csproj", "{2AF1A932-398F-4AD7-A7C7-F798441DA9BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{5004D29B-1B62-4150-ABAA-AF1D021116D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5004D29B-1B62-4150-ABAA-AF1D021116D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5004D29B-1B62-4150-ABAA-AF1D021116D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF1A932-398F-4AD7-A7C7-F798441DA9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF1A932-398F-4AD7-A7C7-F798441DA9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF1A932-398F-4AD7-A7C7-F798441DA9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF1A932-398F-4AD7-A7C7-F798441DA9BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
