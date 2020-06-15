@@ -111,7 +111,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateBMI", "CalculateBM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMixedArray", "SumMixedArray\SumMixedArray.csproj", "{4E48AA8B-8F5E-4E98-936B-210C332B2008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthPowerRulesThemAll", "NthPowerRulesThemAll\NthPowerRulesThemAll.csproj", "{6186B2B2-71AE-4C09-8B11-EB483BEA574A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NthPowerRulesThemAll", "NthPowerRulesThemAll\NthPowerRulesThemAll.csproj", "{6186B2B2-71AE-4C09-8B11-EB483BEA574A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleSquareNumbers", "SimpleSquareNumbers\SimpleSquareNumbers.csproj", "{6ADAF6F3-3622-40B9-9481-2B77DED20B3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayWithTwoStrings", "PlayWithTwoStrings\PlayWithTwoStrings.csproj", "{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RejectFunction", "RejectFunction\RejectFunction.csproj", "{02453F61-434D-41A8-A3DD-3EE720AAB798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -339,6 +345,18 @@ Global
 		{6186B2B2-71AE-4C09-8B11-EB483BEA574A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6186B2B2-71AE-4C09-8B11-EB483BEA574A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6186B2B2-71AE-4C09-8B11-EB483BEA574A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADAF6F3-3622-40B9-9481-2B77DED20B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADAF6F3-3622-40B9-9481-2B77DED20B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADAF6F3-3622-40B9-9481-2B77DED20B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADAF6F3-3622-40B9-9481-2B77DED20B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
