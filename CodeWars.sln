@@ -117,7 +117,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleSquareNumbers", "Simp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayWithTwoStrings", "PlayWithTwoStrings\PlayWithTwoStrings.csproj", "{B1AB01DD-A729-4F77-9A80-CBC7E34FB072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RejectFunction", "RejectFunction\RejectFunction.csproj", "{02453F61-434D-41A8-A3DD-3EE720AAB798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RejectFunction", "RejectFunction\RejectFunction.csproj", "{02453F61-434D-41A8-A3DD-3EE720AAB798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot13", "Rot13\Rot13.csproj", "{B1E9EC48-890C-459F-AD64-3DEC3E22A06D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02453F61-434D-41A8-A3DD-3EE720AAB798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E9EC48-890C-459F-AD64-3DEC3E22A06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E9EC48-890C-459F-AD64-3DEC3E22A06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E9EC48-890C-459F-AD64-3DEC3E22A06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E9EC48-890C-459F-AD64-3DEC3E22A06D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
