@@ -17,7 +17,7 @@ namespace DataReverse
          */
         static void Main(string[] args)
         {
-            Console.WriteLine("Reverse the data in a given array.\n");
+            Console.WriteLine("Reverse the bytes in a given array of data.\n");
             int[] data = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0 };
             foreach (int x in DataReverse(data))
             {
@@ -27,9 +27,16 @@ namespace DataReverse
         public static int[] DataReverse(int[] data)
         {
             int[] reverseData = new int[data.Length];
-            for (int i = 0; i < data.Length; i++)
+            int numBytes = data.Length / 8;
+            int L = data.Length;
+            for (int k = numBytes; k > 0; k--)
             {
-                reverseData[i] = data[data.Length - 1 - i];
+                int byteIndex = 0;
+                for (int i = (L-k*8); i < (L-8*(k-1)); i++)
+                {
+                    reverseData[i] = data[8 * (k - 1) + byteIndex];
+                    byteIndex++;
+                }
             }
             return reverseData;
         }
