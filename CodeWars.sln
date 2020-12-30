@@ -139,7 +139,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParabolicArc", "ParabolicAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{F32C5821-3D58-4B8F-B5FE-48DF56C0CA79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInStrings", "NumbersInStrings\NumbersInStrings.csproj", "{9F4724F4-8830-450C-96C5-9326C9AE521C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInStrings", "NumbersInStrings\NumbersInStrings.csproj", "{9F4724F4-8830-450C-96C5-9326C9AE521C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FusionChamberShutdown", "FusionChamberShutdown\FusionChamberShutdown.csproj", "{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +425,10 @@ Global
 		{9F4724F4-8830-450C-96C5-9326C9AE521C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4724F4-8830-450C-96C5-9326C9AE521C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4724F4-8830-450C-96C5-9326C9AE521C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
