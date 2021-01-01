@@ -141,9 +141,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "RemoveD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInStrings", "NumbersInStrings\NumbersInStrings.csproj", "{9F4724F4-8830-450C-96C5-9326C9AE521C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FusionChamberShutdown", "FusionChamberShutdown\FusionChamberShutdown.csproj", "{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FusionChamberShutdown", "FusionChamberShutdown\FusionChamberShutdown.csproj", "{CB2B6A5C-2AF6-4D98-B1D5-B07CF1B118E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitStrings", "SplitStrings\SplitStrings.csproj", "{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitStrings", "SplitStrings\SplitStrings.csproj", "{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutLetterInColumn", "PutLetterInColumn\PutLetterInColumn.csproj", "{E5982183-41AB-4F11-98D6-F30EEDBADACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesIntoSquares", "RectanglesIntoSquares\RectanglesIntoSquares.csproj", "{69C07C3F-A464-402A-A95E-7B0F2AB36063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +439,14 @@ Global
 		{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5982183-41AB-4F11-98D6-F30EEDBADACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5982183-41AB-4F11-98D6-F30EEDBADACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5982183-41AB-4F11-98D6-F30EEDBADACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5982183-41AB-4F11-98D6-F30EEDBADACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C07C3F-A464-402A-A95E-7B0F2AB36063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C07C3F-A464-402A-A95E-7B0F2AB36063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C07C3F-A464-402A-A95E-7B0F2AB36063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C07C3F-A464-402A-A95E-7B0F2AB36063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
