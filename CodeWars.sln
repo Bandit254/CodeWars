@@ -145,13 +145,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FusionChamberShutdown", "Fu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitStrings", "SplitStrings\SplitStrings.csproj", "{DEEC0332-1BFA-4422-9CD9-ADF7015DDEB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutLetterInColumn", "PutLetterInColumn\PutLetterInColumn.csproj", "{E5982183-41AB-4F11-98D6-F30EEDBADACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PutLetterInColumn", "PutLetterInColumn\PutLetterInColumn.csproj", "{E5982183-41AB-4F11-98D6-F30EEDBADACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesIntoSquares", "RectanglesIntoSquares\RectanglesIntoSquares.csproj", "{69C07C3F-A464-402A-A95E-7B0F2AB36063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectanglesIntoSquares", "RectanglesIntoSquares\RectanglesIntoSquares.csproj", "{69C07C3F-A464-402A-A95E-7B0F2AB36063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyTimeConvert", "EasyTimeConvert\EasyTimeConvert.csproj", "{1B750865-8AD1-450F-BB41-32698048F9D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyTimeConvert", "EasyTimeConvert\EasyTimeConvert.csproj", "{1B750865-8AD1-450F-BB41-32698048F9D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoNumbers", "BetweenTwoNumbers\BetweenTwoNumbers.csproj", "{B29E38A8-B227-46D4-9C95-EB1EDD6EF7D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoNumbers", "BetweenTwoNumbers\BetweenTwoNumbers.csproj", "{B29E38A8-B227-46D4-9C95-EB1EDD6EF7D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightForWeight", "WeightForWeight\WeightForWeight.csproj", "{3889B4D8-EEF2-4C11-A804-D5770BC5548A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToCamelCase", "StringToCamelCase\StringToCamelCase.csproj", "{230BC533-8F81-48F8-8A0E-F67453D4A8B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +463,14 @@ Global
 		{B29E38A8-B227-46D4-9C95-EB1EDD6EF7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B29E38A8-B227-46D4-9C95-EB1EDD6EF7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B29E38A8-B227-46D4-9C95-EB1EDD6EF7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3889B4D8-EEF2-4C11-A804-D5770BC5548A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889B4D8-EEF2-4C11-A804-D5770BC5548A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889B4D8-EEF2-4C11-A804-D5770BC5548A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889B4D8-EEF2-4C11-A804-D5770BC5548A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
