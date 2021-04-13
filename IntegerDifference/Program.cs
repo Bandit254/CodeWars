@@ -22,16 +22,13 @@ namespace IntegerDifference
         public static int IntDiff(int[] arr, int n)
         {
             int count = 0;
-            for (int i = 0; i < arr.Length-1; i++)
+            for (int i = 0; i < arr.Length - 1; i++)
             {
-                for (int j = 0; j < arr.Length; j++)
+                for (int j = i + 1; j < arr.Length; j++)
                 {
-                    if (j!=i)
+                    if (Math.Abs((arr[j] - arr[i])) == n)
                     {
-                        if ((arr[j] - arr[i]) == n)
-                        {
-                            count++;
-                        }
+                        count++;
                     }
                 }
             }
