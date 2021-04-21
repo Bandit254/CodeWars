@@ -39,7 +39,7 @@ namespace SquaredArrays
         {
             bool isSquare=false;
             int matchingItems = 0;
-            if (a==null || b==null)
+            if (a==null | b==null)
             {
                 return isSquare;
             }
@@ -58,7 +58,7 @@ namespace SquaredArrays
                     }
                 }
             }
-            if (matchingItems==b.Length)
+            if (matchingItems==a.Length)
             {
                 isSquare = true;
             }

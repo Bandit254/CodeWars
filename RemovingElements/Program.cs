@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RemovingElements
 {
@@ -20,12 +21,15 @@ namespace RemovingElements
 
         public static object[] RemoveElements(object[] arr)
         {
-            object[] trimmedArray = new object[(arr.Length+1)/ 2];
-            for (int i = 0; i < trimmedArray.Length; i++)
+            List<object> everyOtherItem = new List<object>();
+            for (int i = 0; i < arr.Length; i++)
             {
-                trimmedArray[i] = arr[i * 2];
-            }              
-            return trimmedArray;
+                if (i % 2 == 0)
+                {
+                    everyOtherItem.Add(arr[i]);
+                }
+            }
+            return everyOtherItem.ToArray();
         }
 
         public static void PrintArray(object[] inputArray)
