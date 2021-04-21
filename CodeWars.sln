@@ -155,7 +155,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoNumbers", "Betwee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightForWeight", "WeightForWeight\WeightForWeight.csproj", "{3889B4D8-EEF2-4C11-A804-D5770BC5548A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToCamelCase", "StringToCamelCase\StringToCamelCase.csproj", "{230BC533-8F81-48F8-8A0E-F67453D4A8B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToCamelCase", "StringToCamelCase\StringToCamelCase.csproj", "{230BC533-8F81-48F8-8A0E-F67453D4A8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsForAthleticAssociation", "StatsForAthleticAssociation\StatsForAthleticAssociation.csproj", "{B7C03BD9-B135-458F-AE69-C1FCC69D6825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{230BC533-8F81-48F8-8A0E-F67453D4A8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
