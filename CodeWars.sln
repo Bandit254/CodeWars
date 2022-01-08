@@ -157,7 +157,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightForWeight", "WeightFo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToCamelCase", "StringToCamelCase\StringToCamelCase.csproj", "{230BC533-8F81-48F8-8A0E-F67453D4A8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsForAthleticAssociation", "StatsForAthleticAssociation\StatsForAthleticAssociation.csproj", "{B7C03BD9-B135-458F-AE69-C1FCC69D6825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatsForAthleticAssociation", "StatsForAthleticAssociation\StatsForAthleticAssociation.csproj", "{B7C03BD9-B135-458F-AE69-C1FCC69D6825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNAtoRNA", "DNAtoRNA\DNAtoRNA.csproj", "{966F6EFD-AD18-4247-96D6-AEAF73C50779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -477,6 +479,10 @@ Global
 		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7C03BD9-B135-458F-AE69-C1FCC69D6825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966F6EFD-AD18-4247-96D6-AEAF73C50779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966F6EFD-AD18-4247-96D6-AEAF73C50779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966F6EFD-AD18-4247-96D6-AEAF73C50779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966F6EFD-AD18-4247-96D6-AEAF73C50779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
